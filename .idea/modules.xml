@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/front End.iml" filepath="$PROJECT_DIR$/.idea/front End.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../freelance/tick-tack-project/website/.idea/website.iml" filepath="$PROJECT_DIR$/../../../../../freelance/tick-tack-project/website/.idea/website.iml" />
+    </modules>
+  </component>
+</project>
